@@ -1,6 +1,7 @@
 # Favicon Catcher
 
-![Favicon Catcher Logo](favicon_catcher_logo.png)
+![Screenshot 2023-09-02 232004](https://github.com/Alok-2002/30_Days_30_Projects/assets/93814546/e7171024-e40e-4b40-a11c-e5aa79b8ae5d)
+
 
 ## Overview
 
