@@ -1,14 +1,10 @@
-Certainly, here's a README template for your "30_Days_30_Projects" repository, tailored to your profile and your goal of creating a new web development project every day:
-
----
-
 # 30 Days, 30 Web Development Projects
 
 ![GitHub](https://img.shields.io/github/license/alok-2002/30_Days_30_Projects)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alok-2002/30_Days_30_Projects)
 ![GitHub stars](https://img.shields.io/github/stars/alok-2002/30_Days_30_Projects)
 ![GitHub forks](https://img.shields.io/github/forks/alok-2002/30_Days_30_Projects)
- ![GitHub repo size](https://img.shields.io/github/repo-size/alok-2002/30_Days_30_Projects)
+![GitHub repo size](https://img.shields.io/github/repo-size/alok-2002/30_Days_30_Projects)
 
 Welcome to the "30 Days, 30 Web Development Projects" repository! This is a personal challenge where I'll be creating a new web development project every day for the next 30 days. As a dedicated college student specializing in Internet of Things (IoT) at Madhav Institute of Technology and Science, Gwalior, I'm passionate about technology and eager to explore the world of web development.
 
