@@ -8,7 +8,7 @@ This is a simple Palindrome Checker web application built using HTML, CSS, and J
 
 ## Live Demo
 
-You can try out the live demo of this Palindrome Checker [Live Demo](link-to-your-live-demo).
+You can try out the live demo of this Palindrome Checker [Live Demo](https://pallindrome-checker.vercel.app/).
 
 ## Features
 
@@ -26,7 +26,7 @@ You can try out the live demo of this Palindrome Checker [Live Demo](link-to-you
 
 ## How to Use
 
-1. Visit the live demo [Live Demo]().
+1. Visit the live demo [Live Demo](https://pallindrome-checker.vercel.app/).
 2. Enter a string of text in the input field.
 3. The Palindrome Checker will immediately determine whether the text is a palindrome or not and display the result.
 4. To check a new string, simply update the input field.
