@@ -1,6 +1,6 @@
 # RGB Color Code Generator
 
-
+![RGB Color Code Generator](https://github.com/Alok-2002/RGB_Color_Code_Generator/assets/93814546/27904133-dc27-4370-b074-e9aff7250258)
 
 ## Overview
 
@@ -8,28 +8,30 @@ The RGB Color Code Generator is a web application that allows users to visually 
 
 ## Live Demo
 
-You can try out the live demo of the RGB Color Code Generator [here](link-to-your-live-demo).
+You can try out the live demo of the RGB Color Code Generator [Here](https://color-select.vercel.app/).
 
 ## Features
 
 - Color picker interface for selecting RGB colors.
 - Real-time display of the selected color.
 - RGB color code generation based on user input.
+- Background color changing facility for the entire page.
 - User-friendly design for easy navigation and color selection.
 
 ## Technologies Used
 
-- HTML: Used for creating the structure and content of the web page.
-- CSS: Applied for styling and layout to make the color picker visually appealing.
-- JavaScript: Implemented the color selection logic and RGB code generation.
+- **HTML**: Used for creating the structure and content of the web page.
+- **CSS**: Applied for styling and layout to make the color picker visually appealing.
+- **JavaScript**: Implemented the color selection logic, RGB code generation, and background color changing.
 - [Vercel](https://vercel.com/): Deployed the web application for easy access.
 
 ## How to Use
 
-1. Visit the live demo [here](link-to-your-live-demo).
+1. Visit the live demo [Here](https://color-select.vercel.app/).
 2. Use the color picker to select the desired RGB color.
 3. As you pick a color, the RGB color code will be generated and displayed below the color picker.
-4. You can copy the RGB code to use it in your projects or designs.
+4. The background color of the entire page dynamically changes to reflect the selected color.
+5. You can copy the RGB code to use it in your projects or designs.
 
 ## Installation
 
@@ -38,7 +40,7 @@ If you want to run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/RGB_Color_Code_Generator.git
+   git clone https://github.com/alok-2002/RGB_Color_Code_Generator.git
    ```
 
 2. Navigate to the project directory:
